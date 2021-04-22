@@ -42,6 +42,12 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
+![](images/memo.PNG)
+![](images/testnewman2.PNG)
+
+- Se puede notar como claramente como las request fueron respondidas con un OK, con diferencias de tiempos al cambiar Fibonacci a un enfoque recursivo con memorización
+
+
 **Preguntas**
 
 * ¿Qué es un Azure Function?
