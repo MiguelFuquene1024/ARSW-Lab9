@@ -1,0 +1,324 @@
+{
+	"info": {
+		"_postman_id": "38b82dfd-4343-4bf9-bb67-fcb8b0b9c264",
+		"name": "lab9",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "test",
+			"item": [
+				{
+					"name": "p1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1000\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1001\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 2",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1002\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 3",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1003\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 4",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1004\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 5",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1005\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 6",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1006\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 7",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1007\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 8",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1008\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "p1 Copy 9",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"nth\": 1009\r\n}"
+						},
+						"url": {
+							"raw": "http://functionprojectfibonaccii.azurewebsites.net/api/fibonacci?",
+							"protocol": "http",
+							"host": [
+								"functionprojectfibonaccii",
+								"azurewebsites",
+								"net"
+							],
+							"path": [
+								"api",
+								"fibonacci"
+							],
+							"query": [
+								{
+									"key": "",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
